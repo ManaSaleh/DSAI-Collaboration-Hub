@@ -1,13 +1,9 @@
 # Module 3 Collaboration Repository
 
 ## Overview
-This repository contains programs created to aid collaboration and understanding among colleagues in Module 3 of T5. 
+This repository contains programs created to aid collaboration and understanding among colleagues in T5. 
 
-## Programs
-1. API
-2. WebScraping
-3. NumPy
-4. Pandas
+## Data Science and Artificial Intelligence
 
 ## Contributing
 If you'd like to contribute to this repository and improve the programs, follow these steps:
