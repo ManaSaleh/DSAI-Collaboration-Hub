@@ -1,9 +1,7 @@
-# Module 3 Collaboration Repository
+# Data Science and Artificial Intelligence
 
 ## Overview
 This repository contains programs created to aid collaboration and understanding among colleagues in T5. 
-
-## Data Science and Artificial Intelligence
 
 ## Contributing
 If you'd like to contribute to this repository and improve the programs, follow these steps:
